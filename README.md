@@ -8,7 +8,7 @@ Java 8 or later
 
 CSV file with vehicle emissions data from fueleconomy.gov
 
-# How to use:
+# How to Use:
 
 Download the repository
 
